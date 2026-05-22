@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2348",
+  "folder": "Other__nvngx_dlss_310.6.0_20260522055607_a8c0d7",
+  "base_name": "Other__nvngx_dlss_310.6.0_20260522055607_a8c0d7.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/serjikmk85/Cloud-Downloads-1/releases/tag/co-releases-v1-2348",
+  "files": [
+    {
+      "name": "Other__nvngx_dlss_310.6.0_20260522055607_a8c0d7.zip",
+      "url": "https://github.com/serjikmk85/Cloud-Downloads-1/releases/download/co-releases-v1-2348/Other__nvngx_dlss_310.6.0_20260522055607_a8c0d7.zip",
+      "api_url": "https://api.github.com/repos/serjikmk85/Cloud-Downloads-1/releases/assets/426802995",
+      "id": 426802995,
+      "size": 45006063,
+      "download_count": 0
+    }
+  ]
+}
