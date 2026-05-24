@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7866",
+  "folder": "Software__OctoFetch_Setup_20260524183709_8de7f4",
+  "base_name": "Software__OctoFetch_Setup_20260524183709_8de7f4.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/serjikmk85/Cloud-Downloads-1/releases/tag/co-releases-v1-7866",
+  "files": [
+    {
+      "name": "Software__OctoFetch_Setup_20260524183709_8de7f4.exe",
+      "url": "https://github.com/serjikmk85/Cloud-Downloads-1/releases/download/co-releases-v1-7866/Software__OctoFetch_Setup_20260524183709_8de7f4.exe",
+      "api_url": "https://api.github.com/repos/serjikmk85/Cloud-Downloads-1/releases/assets/428721066",
+      "id": 428721066,
+      "size": 74525307,
+      "download_count": 0
+    }
+  ]
+}
